@@ -96,7 +96,7 @@
         </article>
     </main>
     <footer>
-        <p>&copy; 2026 - Desenvolvido por Luan Stipp</p>
+        <p>&copy; <?php echo date('Y'); ?> - Desenvolvido por Luan Stipp <?php echo date('Y'); ?></p>
     </footer>
 
 </body>
