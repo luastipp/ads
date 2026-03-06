@@ -96,7 +96,7 @@
         </article>
     </main>
     <footer>
-        <p>&copy; <?php echo date('Y'); ?> - Desenvolvido por Luan Stipp <?php echo date('Y'); ?></p>
+        <p>&copy; <?php echo date('Y'); ?> - Desenvolvido por Luã Stipp </p>
     </footer>
 
 </body>
